@@ -49,7 +49,8 @@ Este es un fragmento de una de las salidas generadas por el programa (archivo `p
 2025-10-20T18:42:49.527956900 ---- letra minúscula
 2025-10-20T18:42:50.034997900 ---- letra minúscula
 2025-10-20T18:42:50.540561200 ---- letra minúscula
-2025-10-20T18:42:51.045336800 ---- letra minúscula
+2025-10-20T18:42:51.045336800 ---- letra minúscula 
+```
 
 
 Cada línea muestra:
