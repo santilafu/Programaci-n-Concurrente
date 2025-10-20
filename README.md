@@ -43,7 +43,7 @@ De esta manera se puede comprobar que los tres procesos se ejecutan de forma **c
 
 Este es un fragmento de una de las salidas generadas por el programa (archivo `palabra1.txt`):
 
-2025-10-20T18:42:47.959241 ---- letra mayúscula
+```2025-10-20T18:42:47.959241 ---- letra mayúscula
 2025-10-20T18:42:48.507813600 ---- letra minúscula
 2025-10-20T18:42:49.020017500 ---- letra minúscula
 2025-10-20T18:42:49.527956900 ---- letra minúscula
