@@ -1,4 +1,4 @@
-## Ejercicio 6 – Programación Concurrente
+## Ejercicio 7 – Programación Concurrente
 
 Este ejercicio forma parte del módulo **Programación Multiproceso**.  
 El objetivo es aprender cómo ejecutar varios procesos a la vez (concurrencia) usando la clase `ProcessBuilder` en Java.
